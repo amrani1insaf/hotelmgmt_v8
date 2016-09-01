@@ -51,5 +51,5 @@
     'qweb': ['static/src/xml/hotel_room_summary.xml'],
     'css': ["static/src/css/room_summary.css"],
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
 }
