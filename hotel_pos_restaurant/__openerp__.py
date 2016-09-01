@@ -36,6 +36,6 @@
              "views/hotel_pos_report.xml",
              "views/report_pos_management.xml",
              "wizard/hotel_pos_wizard.xml"],
-    "auto_install": False,
+    "auto_install": True,
     "installable": True
 }
