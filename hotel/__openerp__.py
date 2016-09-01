@@ -42,6 +42,6 @@
             'wizard/hotel_wizard.xml',
     ],
     'css': ['static/src/css/room_kanban.css'],
-    'auto_install': False,
+    'auto_install': True,
     'installable': True
 }
