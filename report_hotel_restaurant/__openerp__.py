@@ -35,5 +35,5 @@
         "views/report_hotel_restaurant_view.xml",
     ],
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
 }
